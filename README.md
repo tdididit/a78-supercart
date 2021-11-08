@@ -9,4 +9,4 @@ Can be used for non bankswitch ROMs - 48kB, 32kB, 16kB.
 The board fits into original Atari 7800 Cart case.
 Atari 2600 Cart case require few cuts on dustcover.
 
-![A78-SUPERCART PCB](a8-supercart-brd.png)
+![A78-SUPERCART PCB](a78-supercart-brd.png)
