@@ -1,5 +1,5 @@
-# a78-supercart
 Atari 7800 SuperCart - WORK IN PROGRESS ...
+-------------------------------------------
 
 More or less universal cartridge for Atari 7800.
 
